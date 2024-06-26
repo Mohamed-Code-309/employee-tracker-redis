@@ -1,2 +1,2 @@
-# employee-tracker-redis
-implement using different redis data structures
+# nestjs-redis
+implement APIs using different redis data structures
